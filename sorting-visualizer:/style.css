@@ -1,0 +1,48 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  background: #f4f4f4;
+  margin: 0;
+}
+
+h1 {
+  margin: 20px 0;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+#bars-container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: 400px;
+  margin: auto;
+  max-width: 95%;
+}
+
+.bar {
+  background-color: steelblue;
+  margin: 0 1px;
+  flex: 1;
+  transition: height 0.2s ease, background-color 0.2s ease;
+}
+
+.bar.compare {
+  background-color: orange;
+}
+
+.bar.sorted {
+  background-color: green;
+}
+
+@media (max-width: 600px) {
+  #bars-container {
+    height: 250px;
+  }
+}
