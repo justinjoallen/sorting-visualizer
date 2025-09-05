@@ -17,7 +17,7 @@ Built with HTML, CSS, and JavaScript.
 ## 📦 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sorting-visualizer.git
+git clone https://github.com/justinjoallen/sorting-visualizer.git
 
 # Navigate into the folder
 cd sorting-visualizer
