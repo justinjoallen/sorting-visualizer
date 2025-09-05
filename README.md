@@ -4,7 +4,7 @@ An interactive web app that **animates popular sorting algorithms** in real time
 Built with **HTML, CSS, and Vanilla JavaScript**.
 
 ## 🚀 Live Demo
-file:///Users/justinrobinson/Desktop/sorting-visualizer:/index.html
+https://justinjoallen.github.io/sorting-visualizer/
 
 ## ✨ Features
 - Visualizes **Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort**
