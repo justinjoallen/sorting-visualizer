@@ -134,3 +134,4 @@ async function startSort() {
 
 sizeInput.addEventListener("input", () => generateArray(sizeInput.value));
 generateArray();
+
